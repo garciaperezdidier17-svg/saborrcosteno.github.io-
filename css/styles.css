@@ -1439,7 +1439,7 @@ body {
     z-index: 2000;
     animation: slideUp 0.3s;
     font-weight: 500;
-}
+}                    
 
 @keyframes slideUp {
     from {
